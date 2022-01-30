@@ -23,6 +23,10 @@ With python3.7 or later.
 ```sh
 python3 main.py
 ```
+### Features Added After Fork And Modifying
+
+- Fixed Some Bugs and error
+- youtube Tutorial added- 
 
 ## Deploying
 
