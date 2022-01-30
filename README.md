@@ -31,7 +31,7 @@ python3 main.py
 ## Deploying
 
 ### Deploy on [Heroku](https://heroku.com)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sagenerator/Encode-bot)
 
 ### Credits
 - [Samir Jana](https://github.com/SamirJanaOfficial) for nothing just adding some features & a lit bit modifications.
